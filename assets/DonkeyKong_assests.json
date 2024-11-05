@@ -27,5 +27,5 @@
         {"name": "flipBlock", "startTile": 751, "tiles":[751, 752, 753, 750], "delay": 4}
 	
     ]
-    }
+    
 }
