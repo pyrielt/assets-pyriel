@@ -25,7 +25,5 @@
         {"name": "flipBlock", "startTile": 718, "tiles":[718, 719, 720, 717], "delay": 4},
         {"name": "flipBlock", "startTile": 784, "tiles":[784, 785, 786, 783], "delay": 4},
         {"name": "flipBlock", "startTile": 751, "tiles":[751, 752, 753, 750], "delay": 4}
-	
     ]
-    
 }
