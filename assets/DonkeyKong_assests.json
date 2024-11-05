@@ -6,8 +6,8 @@
         {"id": 3, "name": "flipBlock", "tileData": 51249902, "flipData": 751}
     ],
     "tileAnim":[
-        {"name": "lady", "startTile": 66, "tiles":[66, 67], "delay": 7},
-        {"name": "lady", "startTile": 99, "tiles":[99, 100], "delay": 7},
+        {"name": "lady", "startTile": 66, "tiles":[66, 67], "delay": 10},
+        {"name": "lady", "startTile": 99, "tiles":[99, 100], "delay": 10},
         {"name": "fire", "startTile": 4, "tiles":[4, 5], "delay": 5},
         {"name": "water", "startTile": 491, "tiles":[491, 492, 493, 494], "delay": 5},
         {"name": "water", "startTile": 557, "tiles":[557, 558, 559, 560], "delay": 5},
