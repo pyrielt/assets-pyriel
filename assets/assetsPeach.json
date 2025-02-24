@@ -24,10 +24,11 @@
 			"delay": 20
 		},
 		{
-			"name": "noteBlock",
+			"name": "water",
 			"startTile": 1085,
 			"tiles": [1085, 1086, 1087, 1088],
 			"delay": 20
+		},
 		{
 			"name": "mysteryBox",
 			"startTile": 24,
