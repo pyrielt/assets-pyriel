@@ -159,6 +159,11 @@
 		{
 			"id": 198,
 			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/allstars/"
+		},
+		{
+			"id": 475,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
 		}
 	]
 }
+
