@@ -110,24 +110,60 @@
 	],
 
 	"properties": [{
+			"id": 7,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/dmca/"
+		}, {
 			"id": 6,
-			"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/fnf_toadette.mp3"
+			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/fnf_toadette.mp3"
 		},
 		{
 			"id": 60,
-			"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"
+			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/yoshi.mp3"
 		},
 		{
 			"id": 70,
-			"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/yoshi.mp3"
+			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/yoshi.mp3"
 		},
 		{
 			"id": 249,
-			"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/8bit.mp3"
+			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/8bit.mp3"
 		},
 		{
 			"id": 250,
-			"music": "https://raw.githubusercontent.com/mroyale/assets/master/audio/skins/8bit_evil.mp3"
+			"music": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/8bit_evil.mp3"
+		},
+		{
+			"id": 279,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/pt/"
+		},
+		{
+			"id": 300,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/sugary/"
+		},
+		{
+			"id": 305,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/party/"
+		},
+		{
+			"id": 309,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/smrpg/"
+		},
+		{
+			"id": 280,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
+		},
+		{
+			"id": 289,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
+		},
+		{
+			"id": 198,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/allstars/"
+		},
+		{
+			"id": 475,
+			"sfx": "https://raw.githubusercontent.com/mroyale/assets/legacy/audio/skins/retra/"
 		}
 	]
 }
+
